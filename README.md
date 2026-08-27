@@ -11,7 +11,7 @@ Solo full-stack dev based in the Philippines. I build and ship real AI products 
 
 A run of small, real AI tools — each one working end to end, not a scaffold:
 
-[AI Website Audit](https://github.com/marcosmodly/ai-website-audit) · [Freelancer Proposal Generator](https://github.com/marcosmodly/freelancer-proposal-generator) · [PDF → Structured Data](https://github.com/marcosmodly/pdf-to-structured-data) · [Pulse Analytics](https://github.com/marcosmodly/saas-analytics-dashboard) · [AI Interior Design Assistant](https://github.com/marcosmodly/ai-interior-design-assistant) · [Second Brain](https://github.com/marcosmodly/second-brain-ai) · [Client Brief Generator](https://github.com/marcosmodly/client-brief-generator) · [What Should I Build?](https://github.com/marcosmodly/what-should-i-build) · [Screenshot → Website](https://github.com/marcosmodly/screenshot-to-website)
+[AI Website Audit](https://github.com/marcosmodly/ai-website-audit) · [Freelancer Proposal Generator](https://github.com/marcosmodly/freelancer-proposal-generator) · [PDF → Structured Data](https://github.com/marcosmodly/pdf-to-structured-data) · [Pulse Analytics](https://github.com/marcosmodly/saas-analytics-dashboard) · [AI Interior Design Assistant](https://github.com/marcosmodly/ai-interior-design-assistant) · [Second Brain](https://github.com/marcosmodly/second-brain-ai) · [Client Brief Generator](https://github.com/marcosmodly/client-brief-generator) · [What Should I Build?](https://github.com/marcosmodly/what-should-i-build) · [Screenshot → Website](https://github.com/marcosmodly/screenshot-to-website) · [skillsmith](https://github.com/marcosmodly/skillsmith)
 
 **Stack I reach for**
 
