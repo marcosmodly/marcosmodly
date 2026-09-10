@@ -19,5 +19,5 @@ Next.js, TypeScript, React, InstantDB/PostgreSQL, Vercel, and Claude or OpenAI d
 
 **Elsewhere**
 
-- Portfolio: https://marcosking742-dot.github.io/portfolio
+- Portfolio: https://portfolio-ebon-pi-34.vercel.app
 - Open to freelance and contract work
