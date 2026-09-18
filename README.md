@@ -1,23 +1,45 @@
-### Hey, I'm KJ
+# King Joshua Marcos
 
-Solo full-stack dev based in the Philippines. I build and ship real AI products end to end, idea, code, deploy, and the client work that comes with it.
+Studied architecture, now I build software. I ship production products solo, then write down exactly where I was wrong.
 
-**What I've built**
+Based in the Philippines. Open to full-time remote engineering roles and contract work.
 
-- **[ModlyAI](https://modlyai.tech)** ([repo](https://github.com/marcosmodly/modlyai)) — an AI-powered furniture recommendation and customization platform. Upload a room photo, get catalog-matched furniture, customize materials with AI, preview it in 3D.
-- **[Holdfast](https://useholdfast.co)** ([repo](https://github.com/marcosmodly/holdfast)) — never lose touch with the people who matter. Talk to a Telegram bot after seeing someone, it transcribes and remembers what matters, then reminds you at the right time.
+## Shipped
 
-**Recent builds**
+**[ModlyAI](https://modlyai.tech/)** · Next.js, TypeScript, InstantDB, Paddle
 
-A run of small, real AI tools — each one working end to end, not a scaffold:
+An embeddable widget that places a piece of furniture into a shopper's own room photo at the correct scale, plus the merchant dashboard behind it. Live in production with billing integrated.
 
-[AI Website Audit](https://github.com/marcosmodly/ai-website-audit) · [Freelancer Proposal Generator](https://github.com/marcosmodly/freelancer-proposal-generator) · [PDF → Structured Data](https://github.com/marcosmodly/pdf-to-structured-data) · [Pulse Analytics](https://github.com/marcosmodly/saas-analytics-dashboard) · [AI Interior Design Assistant](https://github.com/marcosmodly/ai-interior-design-assistant) · [Second Brain](https://github.com/marcosmodly/second-brain-ai) · [Client Brief Generator](https://github.com/marcosmodly/client-brief-generator) · [What Should I Build?](https://github.com/marcosmodly/what-should-i-build) · [Screenshot → Website](https://github.com/marcosmodly/screenshot-to-website) · [skillsmith](https://github.com/marcosmodly/skillsmith)
+[Case study](https://portfolio-ebon-pi-34.vercel.app/modlyai.html) · [Source](https://github.com/marcosmodly/modlyai)
 
-**Stack I reach for**
+**[Holdfast](https://useholdfast.co/)** · Next.js, Telegram Bot API, OpenAI
 
-Next.js, TypeScript, React, InstantDB/PostgreSQL, Vercel, and Claude or OpenAI depending on the job.
+Send a twenty second voice note about someone you saw, get reminded of the one thing worth following up on, on the day it matters. No app to open. Early access.
 
-**Elsewhere**
+[Case study](https://portfolio-ebon-pi-34.vercel.app/holdfast.html) · [Source](https://github.com/marcosmodly/holdfast)
 
-- Portfolio: https://portfolio-ebon-pi-34.vercel.app
-- Open to freelance and contract work
+**[Grandma's Lighthouse](https://modsy.itch.io/grandmas-lighthouse)** · Godot 4, GDScript
+
+A cozy colour restoration Sokoban game. Five rooms end to end, 26 headless verification suites, every piece of art drawn by hand.
+
+[Case study](https://portfolio-ebon-pi-34.vercel.app/grandmas-lighthouse.html)
+
+**[github-repo-hygiene-skill](https://github.com/marcosmodly/github-repo-hygiene-skill)** · Shell, GitHub CLI
+
+A Claude Code skill that audits every repo on an account for a missing description, topics, license, or a README that is still scaffold text, then fixes what you approve.
+
+[Case study](https://portfolio-ebon-pi-34.vercel.app/github-repo-hygiene.html)
+
+## Stack
+
+TypeScript, Next.js, React, Node. InstantDB and Postgres. Vercel and Cloudflare. Godot and GDScript when I am making a game instead. Claude and Codex daily.
+
+AutoCAD, SketchUp and Revit are left over from the architecture years, which is most of the reason the spatial and visual products are the ones I keep coming back to.
+
+## Writing
+
+Every project above has a full write-up covering what broke, what it cost, and what I checked. The ModlyAI one is the longest and the least flattering.
+
+---
+
+[Portfolio](https://portfolio-ebon-pi-34.vercel.app/) · marcosking1221@gmail.com
