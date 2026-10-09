@@ -16,7 +16,7 @@ Twelve Claude Code skills that cover a small marketing team's work, from competi
 
 An embeddable widget that answers a shopper's fit questions from the store's own catalog and recommends pieces that fit a photo of their room, plus the merchant dashboard behind it. Live in production, on plans from $19 to $199 a month.
 
-[Case study](https://portfolio-ebon-pi-34.vercel.app/modlyai.html) · [Source](https://github.com/marcosmodly/modlyai)
+[Case study](https://portfolio-ebon-pi-34.vercel.app/modlyai.html)
 
 **[Holdfast](https://useholdfast.co/)** · Next.js, Telegram Bot API, OpenAI
 
