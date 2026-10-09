@@ -6,15 +6,21 @@ Based in the Philippines. Open to full-time remote engineering roles and contrac
 
 ## Shipped
 
-**[ModlyAI](https://modlyai.tech/)** · Next.js, TypeScript, InstantDB, Paddle
+**[Marketing Skill](https://github.com/marcosmodly/marketing-skill)** · Claude Code plugin, Python, Node, ffmpeg &nbsp;[![GitHub stars](https://img.shields.io/github/stars/marcosmodly/marketing-skill?style=social)](https://github.com/marcosmodly/marketing-skill/stargazers)
 
-An embeddable widget that places a piece of furniture into a shopper's own room photo at the correct scale, plus the merchant dashboard behind it. Live in production with billing integrated.
+Twelve Claude Code skills that cover a small marketing team's work, from competitor research, SEO briefs and cold outreach to community posts written to each subreddit's actual rules and short-form videos rendered on your own machine. Nothing posts or sends until a person reads it and says yes. It also installs in OpenAI Codex, and picked up its first forks and about 1,200 clones in its first two weeks.
+
+[Case study](https://portfolio-ebon-pi-34.vercel.app/marketing-skill.html) · [Source](https://github.com/marcosmodly/marketing-skill)
+
+**[ModlyAI](https://modlyai.tech/)** · Next.js, TypeScript, InstantDB, OpenAI, Paddle
+
+An embeddable widget that answers a shopper's fit questions from the store's own catalog and recommends pieces that fit a photo of their room, plus the merchant dashboard behind it. Live in production, on plans from $19 to $199 a month.
 
 [Case study](https://portfolio-ebon-pi-34.vercel.app/modlyai.html) · [Source](https://github.com/marcosmodly/modlyai)
 
 **[Holdfast](https://useholdfast.co/)** · Next.js, Telegram Bot API, OpenAI
 
-Send a twenty second voice note about someone you saw, get reminded of the one thing worth following up on, on the day it matters. No app to open. Early access.
+Send a twenty second voice note about someone you saw, get reminded of the one thing worth following up on, on the day it matters. No app to open. Live with a waitlist, and its landing page was reworked from briefs Marketing Skill wrote.
 
 [Case study](https://portfolio-ebon-pi-34.vercel.app/holdfast.html) · [Source](https://github.com/marcosmodly/holdfast)
 
@@ -32,7 +38,7 @@ A Claude Code skill that audits every repo on an account for a missing descripti
 
 ## Stack
 
-TypeScript, Next.js, React, Node. InstantDB and Postgres. Vercel and Cloudflare. Godot and GDScript when I am making a game instead. Claude and Codex daily.
+TypeScript, Next.js, React, Node, Python. InstantDB and Postgres. Vercel and Cloudflare. Playwright and ffmpeg when the output is a video. Godot and GDScript when I am making a game instead. Claude and Codex daily.
 
 AutoCAD, SketchUp and Revit are left over from the architecture years, which is most of the reason the spatial and visual products are the ones I keep coming back to.
 
